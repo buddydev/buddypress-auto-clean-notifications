@@ -60,6 +60,6 @@ class Action_Handler {
 	 * @return int
 	 */
 	private function get_cleanup_days() {
-		return 120;// 30 days. update it to number of days you want to.
+		return 30;// 30 days. update it to number of days you want to.
 	}
 }
