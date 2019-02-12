@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: BuddyPress Auto Clean Notifications
- * Version: 1.0.0
+ * Version: 1.0.1
  * Plugin URI: https://buddydev.com/introducing-buddypress-auto-clean-notifications
  * Description: Auto Clean BuddyPress Notifications after a certain period(days).
  * Author: BuddyDev
